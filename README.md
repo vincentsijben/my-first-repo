@@ -1,2 +1,3 @@
 # my-first-repo
-![vincent pasfoto](vincent-kodak-square.jpg)
+
+<img src="vincent-kodak-square.jpg" alt="vincent pasfoto" width="200">
